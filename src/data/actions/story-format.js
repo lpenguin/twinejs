@@ -180,6 +180,12 @@ const actions = module.exports = {
 				userAdded: false
 			},
 			{
+				name: 'Harlowe Lpenguin',
+				url: 'story-formats/harlowe-2.1.0-lpenguin/format.js',
+				version: '2.1.0',
+				userAdded: false
+			},
+			{
 				name: 'Paperthin',
 				url: 'story-formats/paperthin-1.0.0/format.js',
 				version: '1.0.0',
